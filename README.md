@@ -8,7 +8,7 @@
 - **Email:** veerababu@myworkmails.com  
 - **Phone:** (203) 833-0889  
 - **Location:** USA  
-- [LinkedIn](#https://www.linkedin.com/in/veerababu-s-44b9a4293/) | [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/veerababu-s-44b9a4293/) | [GitHub](#)
 
 ---
 
