@@ -1,6 +1,6 @@
 # Hi, I'm Veerababu Sankarapu 👋
 
-**SOC Analyst | Cloud Security | Threat Detection & Response**
+**AI Security Engineer | Information Security Analyst | Cloud Security | Threat Detection & Response**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a detail-oriented and proactive SOC Analyst with over 4 years of experience monitoring, detecting, and responding to cybersecurity threats across cloud and on-premises environments. My expertise lies in analyzing security events with SIEM tools, developing detection rules, reducing false positives, and collaborating with cross-functional teams to enhance security posture and streamline incident response.
+I am a detail-oriented and proactive Information Security Analyst  with over 4 years of experience monitoring, detecting, and responding to cybersecurity threats across cloud and on-premises environments. My expertise lies in analyzing security events with SIEM tools, developing detection rules, reducing false positives, and collaborating with cross-functional teams to enhance security posture and streamline incident response.
 
 ---
 
@@ -32,7 +32,7 @@ I am a detail-oriented and proactive SOC Analyst with over 4 years of experience
 
 ## 💼 Professional Experience
 
-### SOC Analyst, Brex (10/2024 – Present | Remote, USA)
+### Information Security Analyst , Brex (10/2024 – Present | Remote, USA)
 - Led deployment of AWS logging architecture for real-time visibility across production and dev environments.
 - Monitored and triaged security events with AWS CloudTrail, GuardDuty, VPC Flow Logs, applying detection methods for identifying threats.
 - Built and maintained SIEM alerting logic, escalating confirmed threats to Tier 2 SOC analysts.
@@ -40,14 +40,14 @@ I am a detail-oriented and proactive SOC Analyst with over 4 years of experience
 - Reduced false positives by 50% and improved SOC triage speed through alert tuning and threat validation.
 - Delivered weekly Power BI dashboards on detection trends and incident outcomes.
 
-### SOC Analyst, CloudLabs Inc. (01/2021 – 08/2023 | Andhra Pradesh, India)
+### Information Security Analyst , CloudLabs Inc. (01/2021 – 08/2023 | Andhra Pradesh, India)
 - Developed Splunk SIEM deployment for real-time log ingestion from firewalls, Snort IDS, and endpoints.
 - Built correlation rules and detection logic using SPL, improving threat detection accuracy.
 - Configured data pipelines and integrated logs from multiple sources under Agile practices.
 - Reduced false positives by 50% using threat intelligence from IBM X-Force and MISP.
 - Created executive dashboards visualizing SOC KPIs in Tableau and Splunk.
 
-### Associate SOC Analyst, CloudLabs (01/2020 – 12/2020 | Andhra Pradesh, India)
+### Associate Information Security Analyst , CloudLabs (01/2020 – 12/2020 | Andhra Pradesh, India)
 - Monitored security alerts via Splunk, triaging low/medium severity events and escalating critical incidents.
 - Performed initial alert analysis and maintained documentation in ServiceNow.
 - Ensured log availability and generated weekly status reports for team leads.
