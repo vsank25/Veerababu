@@ -31,8 +31,16 @@ I am a detail-oriented and proactive Information Security Analyst  with over 4 y
 ---
 
 ## 💼 Professional Experience
+### AI Security Engineer, Brex 03/2025 – Present | Remote, USA
+- Promoted to lead AI-driven security operations focusing on autonomous detection systems.
+- Designed and deployed 6 AI SOC Agents using Python, Lang Chain, and AWS Lambda by Integrating Vector DB Pinecone. Built LLM sandbox using Lang
+Chain to test agent workflows and prompt injection vectors.
+- Developed internal triage dashboard using Django integrated with Splunk and ServiceNow. Rolled out MASTERO agentic AI framework for detection and
+decision automation. Implemented OSWAP for LLMs to protect 10+ models from adversarial misuse.
+- Created AI threat maps aligned with MITRE ATLAS for detection strategies and Integrated Cortex XSOAR to automate response playbooks and reduce
+response time by 35%
 
-### Information Security Analyst , Brex (10/2024 – Present | Remote, USA)
+### Information Security Analyst , Brex (10/2024 – 03/25 | Remote, USA)
 - Led deployment of AWS logging architecture for real-time visibility across production and dev environments.
 - Monitored and triaged security events with AWS CloudTrail, GuardDuty, VPC Flow Logs, applying detection methods for identifying threats.
 - Built and maintained SIEM alerting logic, escalating confirmed threats to Tier 2 SOC analysts.
